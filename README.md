@@ -1,4 +1,4 @@
-# TDCSP_2020
+# TDCSP-2020
 
 PT-BR: Demos e slides utilizados durante minhas palestras no evento The Developers Conference SP 2020. 
 
